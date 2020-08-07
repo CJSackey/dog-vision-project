@@ -1,6 +1,6 @@
 End-toEnd multiclass Dog Breed Classification Project.
 
-This notebook builds and end-to-end multiclass image classifier using TensorFlow 2.0 and TensoFlow Hub.
+This project builds and end-to-end multiclass image classifier using TensorFlow 2.0 and TensoFlow Hub.
 
 1. Problem
 Identifying the breed of a dog given the image.
